@@ -41,6 +41,7 @@
 ## GitHub Contributions
 
 <div align="center">
+<img src="https://img.shields.io/badge/Contributions-3%2C127-brightgreen?style=for-the-badge" alt="Contributions" />
 
 <img src="https://github.com/ndthongsgu/ndthongsgu/blob/output/github-contribution-grid-snake-dark.svg" width="850"/>
 
