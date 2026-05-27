@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://github.com/ndthongsgu/ndthongsgu/blob/output/github-contribution-grid-snake-dark.svg" width="900"/>
+<img src="https://github.com/ndthongsgu/ndthongsgu/blob/output/github-contribution-grid-snake-dark.svg" width="850"/>
 
 </div>
 
