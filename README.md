@@ -41,10 +41,11 @@
 ## GitHub Contributions
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-3%2C127-brightgreen?style=for-the-badge" alt="Contributions" />
-  
-  ### 🐍 Contribution Snake
-  ![GitHub Snake Animation](https://github.com/ndthongsgu/ndthongsgu/blob/output/github-contribution-grid-snake.svg)
+
+<h2>GitHub Contribution </h2>
+
+<img src="https://github.com/ndthongsgu/ndthongsgu/blob/output/github-contribution-grid-snake-dark.svg" width="900"/>
+
 </div>
 
 ---
@@ -53,7 +54,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ndthongsgu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhthong)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndthongsgu@gmail.com)
 </div>
