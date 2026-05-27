@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là Thông
+# 👋 Hello! I'm Thong
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=💻+Full+Stack+Developer;🚀+Tech+Enthusiast;🌐+Open+Source+Lover" alt="Typing SVG" />
@@ -6,18 +6,18 @@
 
 ---
 
-## 🎯 Về Tôi
+## 🎯 About Me
 
-Là một lập trình viên passionate, tôi yêu thích xây dựng những ứng dụng web hiện đại, tối ưu và scalable. Tôi luôn tìm tìm cách mới để giải quyết các vấn đề phức tạp thông qua code sạch và architecture tốt.
+I'm a passionate developer who loves building modern, efficient, and scalable web applications. I'm constantly exploring new ways to solve complex problems through clean code and solid architecture.
 
-- 🔭 Hiện tại: Đang tìm tìm cơ hội collaborate trên các dự án thú vị
-- 🌱 Đang học: Những công nghệ mới nhất trong web development
-- 💡 Đam mê: Open source, mentoring, và tech community
-- 📍 Vị trí: Vietnam
+- 🔭 Currently: Looking for exciting collaboration opportunities on interesting projects
+- 🌱 Learning: The latest technologies in web development
+- 💡 Passionate About: Open source, mentoring, and tech community
+- 📍 Location: Vietnam
 
 ---
 
-## 🛠️ Công Nghệ & Kỹ Năng
+## 🛠️ Tech Stack & Skills
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,7 +78,7 @@ Là một lập trình viên passionate, tôi yêu thích xây dựng những �
 
 ---
 
-## 📫 Kết Nối Với Tôi
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -91,11 +91,11 @@ Là một lập trình viên passionate, tôi yêu thích xây dựng những �
 
 ---
 
-## 💬 Một Chút Nữa...
+## 💬 Final Words
 
 > "Code is poetry written in logic. The best code tells a story." 
 
-Tôi luôn sẵn sàng học hỏi, cộng tác và chia sẻ kiến thức. Nếu bạn có bất kỳ câu hỏi hay muốn làm việc cùng, hãy liên hệ với tôi! 🚀
+I'm always ready to learn, collaborate, and share knowledge. If you have any questions or want to work together, feel free to reach out! 🚀
 
 ---
 
