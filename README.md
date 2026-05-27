@@ -1,10 +1,10 @@
-# Hello! I'm Thong
-
+<!-- # I am Thong -->
+<!-- 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=+Full+Stack+Developer;+Tech+Enthusiast;+Open+Source+Lover" alt="Typing SVG" />
 </div>
 
----
+--- -->
 
 ## Tech Stack & Skills
 
