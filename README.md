@@ -1,23 +1,12 @@
-# 👋 Hello! I'm Thong
+# Hello! I'm Thong
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=💻+Full+Stack+Developer;🚀+Tech+Enthusiast;🌐+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=+Full+Stack+Developer;+Tech+Enthusiast;+Open+Source+Lover" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎯 About Me
-
-I'm a passionate developer who loves building modern, efficient, and scalable web applications. I'm constantly exploring new ways to solve complex problems through clean code and solid architecture.
-
-- 🔭 Currently: Looking for exciting collaboration opportunities on interesting projects
-- 🌱 Learning: The latest technologies in web development
-- 💡 Passionate About: Open source, mentoring, and tech community
-- 📍 Location: Vietnam
-
----
-
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +14,6 @@ I'm a passionate developer who loves building modern, efficient, and scalable we
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
@@ -41,36 +29,8 @@ I'm a passionate developer who loves building modern, efficient, and scalable we
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndthongsgu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndthongsgu&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
----
-
-## 🎨 Highlights
-
-### 💼 Expertise
-- ✅ Full Stack Web Development
-- ✅ Responsive & Mobile-first Design
-- ✅ RESTful API Development
-- ✅ Database Design & Optimization
-- ✅ Git & Version Control
-- ✅ Agile Methodology
-
-### 🔥 Currently Working On
-- 🚀 Building scalable web applications
-- 📚 Contributing to open source projects
-- 🎓 Sharing knowledge with the community
-
----
-
-## 🌟 Contributions & Activities
+## Contributions & Activities
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndthongsgu&theme=tokyo-night&hide_border=true" />
@@ -78,31 +38,13 @@ I'm a passionate developer who loves building modern, efficient, and scalable we
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ndthongsgu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ndthongsgu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ndthongsgu)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhthong)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndthongsgu@gmail.com)
 </div>
 
 ---
-
-## 💬 Final Words
-
-> "Code is poetry written in logic. The best code tells a story." 
-
-I'm always ready to learn, collaborate, and share knowledge. If you have any questions or want to work together, feel free to reach out! 🚀
-
----
-
-<div align="center">
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ndthongsgu.ndthongsgu)
-  
-  <p>⭐ If you like what you see, don't forget to star my repos!</p>
-  
-</div>
