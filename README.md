@@ -109,6 +109,9 @@
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Contributions-3%2C127%2B-brightgreen?style=for-the-badge&logo=github&color=00F0FF&labelColor=0d1117" alt="Total Contributions" />
+  </p>
   <img src="https://github.com/ndthongsgu/ndthongsgu/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
