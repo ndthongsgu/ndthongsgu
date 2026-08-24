@@ -51,9 +51,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndthongsgu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndthongsgu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=ndthongsgu&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ndthongsgu&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <hr />
