@@ -39,7 +39,7 @@
     <td width="45%" valign="top">
       <h3>⚙️ Top Languages</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndthongsgu&layout=compact&theme=tokyonight&hide_border=true&card_width=380" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndthongsgu&layout=compact&theme=tokyonight&hide_border=true&card_width=380" alt="Top Languages" />
       </p>
     </td>
   </tr>
@@ -51,9 +51,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndthongsgu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndthongsgu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndthongsgu&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ndthongsgu&theme=tokyonight&hide_border=true" height="175px" alt="GitHub Streak" />
 </p>
 
 <hr />
